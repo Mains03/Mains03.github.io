@@ -11,11 +11,10 @@ PhD student at the University of Bristol studying in the department of computer 
 
 ## Research interests:
 
-Broadly interested in theoretical computer science, in particular:
+My interests are in theoretical computer science, in particular:
 - (homotopy) type theory,
-- programming language semantics,
-- category theory,
-- logic.
+- domain theory,
+- category theory.
 
 ## Address
 
