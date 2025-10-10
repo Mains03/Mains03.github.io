@@ -14,7 +14,7 @@ PhD student at the University of Bristol studying in the department of computer 
 My interests are in theoretical computer science, in particular:
 - (homotopy) type theory,
 - domain theory,
-- category theory.
+- pointless topology.
 
 ## Address
 
