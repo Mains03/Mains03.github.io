@@ -16,6 +16,8 @@ My interests are in theoretical computer science, in particular:
 - domain theory,
 - pointless topology.
 
+My favourite pastime is proving the fundamental lemma for a logical relation.
+
 ## Address
 
 81 Woodland Road \\
