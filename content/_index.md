@@ -3,7 +3,7 @@ title = "Home"
 template = "index.html"
 +++
 
-# austere
+<!-- # austere
 
 A minimal theme for [Zola](https://www.getzola.org/) with a focus on writing.
 
@@ -19,4 +19,28 @@ The design and simplicity of austere was heavily influenced by the excellent [Za
 - Light/dark mode toggle
 - Responsive images
 - Atom and RSS feeds
-- Fuse.js search
+- Fuse.js search -->
+
+# About
+
+PhD student at the University of Bristol in the <a href="https://plrg-bristol.github.io/"> programming languages research group</a>. 
+
+Supervisor: <a href="https://seis.bristol.ac.uk/~tz20861/">Dr. Alex Kavvos</a>.
+
+## Research Interests
+
+Anything programming languages related with a pungent mathematical odour, such as:
+<ul>
+  <li>denotational semantics,</li>
+  <li>(homotopy) type theory,</li>
+  <li>pointless topology.</li>
+</ul>
+
+My favourite pastime is proving the fundamental lemma for a logical relation.
+
+## Address
+
+81 Woodland Road<br>
+Bristol<br>
+BS8 1US<br>
+United Kingdom
