@@ -29,7 +29,7 @@ Supervisor: <a href="https://seis.bristol.ac.uk/~tz20861/">Dr. Alex Kavvos</a>.
 
 ## Research Interests
 
-Anything programming languages related with a pungent mathematical odour, such as:
+Keenly interested in the application of mathematics to programming languages, including:
 <ul>
   <li>denotational semantics,</li>
   <li>(homotopy) type theory,</li>
@@ -38,7 +38,13 @@ Anything programming languages related with a pungent mathematical odour, such a
 
 My favourite pastime is proving the fundamental lemma for a logical relation.
 
-## Address
+# Publications
+
+<ul>
+  <li><a href="https://dl.acm.org/doi/10.1145/3776699">Domain-Theoretic Semantics for Functional Logic Programming</a> - POPL 2026</li>
+</ul>
+
+# Address
 
 81 Woodland Road<br>
 Bristol<br>

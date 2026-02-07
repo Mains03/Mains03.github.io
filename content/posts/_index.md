@@ -1,8 +1,6 @@
 +++
-title = "Example posts"
-sort_by = "date"
+title = "Posts"
 template = "posts.html"
-page_template = "post.html"
 +++
 
-Lorem ipsum dolor sit amet consectetur adipiscing elit. Dolor sit amet consectetur adipiscing elit quisque faucibus.
+Something might appear here at some point.
