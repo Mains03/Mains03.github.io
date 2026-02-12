@@ -36,7 +36,12 @@ Keenly interested in the application of mathematics to programming languages, in
   <li>pointless topology.</li>
 </ul>
 
-My favourite pastime is proving the fundamental lemma for a logical relation.
+## Memorable Comments
+
+<ul>
+  <li>My favourite pastime is proving the fundamental lemma for a logical relation.</li>
+  <li>Classical logic is more intuitionistic (appealing to intuition) than intuitionistic logic.</li>
+</ul>
 
 # Publications
 
