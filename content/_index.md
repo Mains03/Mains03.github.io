@@ -38,9 +38,12 @@ Keenly interested in the application of mathematics to programming languages, in
 
 ## Memorable Comments
 
+Things I have either said (and someone laughed at!) or read.
+
 <ul>
   <li>My favourite pastime is proving the fundamental lemma for a logical relation.</li>
   <li>Classical logic is more intuitionistic (appealing to intuition) than intuitionistic logic.</li>
+  <li>Computer Science Contradicts Mathematics - the original title of Peter Freyd's article Algebraically Complete Categories.</li>
 </ul>
 
 # Publications
