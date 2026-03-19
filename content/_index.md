@@ -27,16 +27,18 @@ PhD student at the University of Bristol in the <a href="https://plrg-bristol.gi
 
 Supervisor: <a href="https://seis.bristol.ac.uk/~tz20861/">Dr. Alex Kavvos</a>.
 
+No one really knows how a microwave works.
+
 ## Research Interests
 
-Keenly interested in the application of mathematics to programming languages, including:
+Keen interest in the application of mathematics to programming languages, including:
 <ul>
   <li>denotational semantics,</li>
   <li>(homotopy) type theory,</li>
-  <li>pointless topology.</li>
+  <li>pointless topology (working towards promoting this to topos theory).</li>
 </ul>
 
-## Memorable Comments
+<!-- ## Memorable Comments
 
 Things I have either said (and someone laughed at!) or read.
 
@@ -44,7 +46,7 @@ Things I have either said (and someone laughed at!) or read.
   <li>My favourite pastime is proving the fundamental lemma for a logical relation.</li>
   <li>Classical logic is more intuitionistic (appealing to intuition) than intuitionistic logic.</li>
   <li>Computer Science Contradicts Mathematics - the original title of Peter Freyd's article Algebraically Complete Categories.</li>
-</ul>
+</ul> -->
 
 # Publications
 
