@@ -27,8 +27,6 @@ PhD student at the University of Bristol in the <a href="https://plrg-bristol.gi
 
 Supervisor: <a href="https://seis.bristol.ac.uk/~tz20861/">Dr. Alex Kavvos</a>.
 
-No one really knows how a microwave works.
-
 ## Research Interests
 
 Keen interest in the application of mathematics to programming languages, including:
@@ -37,6 +35,8 @@ Keen interest in the application of mathematics to programming languages, includ
   <li>(homotopy) type theory,</li>
   <li>pointless topology (working towards promoting this to topos theory).</li>
 </ul>
+
+My favourite pastime is proving the fundamental lemma for a logical relation.
 
 <!-- ## Memorable Comments
 
