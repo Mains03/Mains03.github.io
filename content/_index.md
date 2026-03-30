@@ -23,20 +23,16 @@ The design and simplicity of austere was heavily influenced by the excellent [Za
 
 # About
 
-PhD student at the University of Bristol in the <a href="https://plrg-bristol.github.io/"> programming languages research group</a>. 
-
-Supervisor: <a href="https://seis.bristol.ac.uk/~tz20861/">Dr. Alex Kavvos</a>.
+PhD student at the University of Bristol in the <a href="https://plrg-bristol.github.io/"> programming languages research group</a>, supervised by <a href="https://seis.bristol.ac.uk/~tz20861/">Alex Kavvos</a>.
 
 ## Research Interests
 
-Keen interest in the application of mathematics to programming languages, including:
+Interested in the application of mathematics to programming languages, including:
 <ul>
   <li>denotational semantics,</li>
   <li>(homotopy) type theory,</li>
-  <li>pointless topology (working towards promoting this to topos theory).</li>
+  <li>pointless topology.</li>
 </ul>
-
-My favourite pastime is proving the fundamental lemma for a logical relation.
 
 <!-- ## Memorable Comments
 
