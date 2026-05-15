@@ -25,24 +25,15 @@ The design and simplicity of austere was heavily influenced by the excellent [Za
 
 PhD student at the University of Bristol in the <a href="https://plrg-bristol.github.io/"> programming languages research group</a>, supervised by <a href="https://seis.bristol.ac.uk/~tz20861/">Alex Kavvos</a>.
 
+
 ## Research Interests
 
-Interested in the application of mathematics to programming languages, including:
+Interested in formal approaches to programming languages, including:
 <ul>
   <li>denotational semantics,</li>
   <li>(homotopy) type theory,</li>
-  <li>pointless topology.</li>
+  <li>categorical logic.</li>
 </ul>
-
-<!-- ## Memorable Comments
-
-Things I have either said (and someone laughed at!) or read.
-
-<ul>
-  <li>My favourite pastime is proving the fundamental lemma for a logical relation.</li>
-  <li>Classical logic is more intuitionistic (appealing to intuition) than intuitionistic logic.</li>
-  <li>Computer Science Contradicts Mathematics - the original title of Peter Freyd's article Algebraically Complete Categories.</li>
-</ul> -->
 
 # Publications
 
