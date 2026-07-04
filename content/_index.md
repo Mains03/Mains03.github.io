@@ -28,12 +28,14 @@ PhD student at the University of Bristol in the <a href="https://plrg-bristol.gi
 
 ## Research Interests
 
-Interested in formal approaches to programming languages, including:
+Interested in programming language semantics, including:
 <ul>
   <li>denotational semantics,</li>
   <li>(homotopy) type theory,</li>
-  <li>categorical logic.</li>
+  <li>pointless topology.</li>
 </ul>
+
+My favourite pastime is proving the fundamental lemma of a logical relation.
 
 # Publications
 
