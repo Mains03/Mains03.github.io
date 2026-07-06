@@ -49,5 +49,3 @@ My favourite pastime is proving the fundamental lemma of a logical relation.
 Bristol<br>
 BS8 1US<br>
 United Kingdom
-
-test
