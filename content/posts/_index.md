@@ -9,6 +9,6 @@ page_template = "post.html"
 
 Ideas to blog about:
 
-- The Halting problem doesn't type check
+- The Halting problem doesn't type check (though it is still valid)
 - Girard's paradox in Haskell
 - Simple proof of the Fundamental Theorem of Algebra
